@@ -31,19 +31,22 @@ I'm a passionate developer committed to building exceptional software solutions 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **Frontend Frameworks**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ### **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Tools & Platforms**
@@ -51,6 +54,7 @@ I'm a passionate developer committed to building exceptional software solutions 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 </div>
 
@@ -64,9 +68,9 @@ I'm a passionate developer committed to building exceptional software solutions 
 
 | 🏆 Project | 📝 Description |
 |-----------|----------------|
+| [DATN-nhuanbutweb](https://github.com/BuirT/DATN-nhuanbutweb) | Full-stack news payment system - React + Vite frontend with Node.js/Express backend & SQL Server database |
+| [DATN-nhuanbutwinform](https://github.com/BuirT/DATN-nhuanbutwinform) | Desktop news management system with AI - Built with C# .NET Framework, Windows Forms & Ollama integration |
 | [FLOWERSHOP](https://github.com/DuwwDuyy/FLOWERSHOP) | E-commerce flower shop platform built with PHP and modern web technologies |
-| [Project Name](#) | A modern, scalable web application built with React & Node.js |
-| [Project Name](#) | Full-stack e-commerce platform with real-time features |
 
 ---
 
