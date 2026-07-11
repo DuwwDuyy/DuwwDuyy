@@ -33,6 +33,7 @@ I'm a passionate developer committed to building exceptional software solutions 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **Frontend Frameworks**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -63,9 +64,9 @@ I'm a passionate developer committed to building exceptional software solutions 
 
 | 🏆 Project | 📝 Description |
 |-----------|----------------|
+| [FLOWERSHOP](https://github.com/DuwwDuyy/FLOWERSHOP) | E-commerce flower shop platform built with PHP and modern web technologies |
 | [Project Name](#) | A modern, scalable web application built with React & Node.js |
 | [Project Name](#) | Full-stack e-commerce platform with real-time features |
-| [Project Name](#) | API development with best practices and documentation |
 
 ---
 
