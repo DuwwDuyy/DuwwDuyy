@@ -49,6 +49,12 @@ I'm a passionate developer committed to building exceptional software solutions 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### **AI & ML Tools**
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen%202.5-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![AntiGravity Cursor](https://img.shields.io/badge/AntiGravity%20Cursor-4A90E2?style=for-the-badge&logo=cursor&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-2D3748?style=for-the-badge&logo=code&logoColor=white)
+
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -69,8 +75,25 @@ I'm a passionate developer committed to building exceptional software solutions 
 | 🏆 Project | 📝 Description |
 |-----------|----------------|
 | [DATN-nhuanbutweb](https://github.com/BuirT/DATN-nhuanbutweb) | Full-stack news payment system - React + Vite frontend with Node.js/Express backend & SQL Server database |
-| [DATN-nhuanbutwinform](https://github.com/BuirT/DATN-nhuanbutwinform) | Desktop news management system with AI - Built with C# .NET Framework, Windows Forms & Ollama integration |
+| [DATN-nhuanbutwinform](https://github.com/BuirT/DATN-nhuanbutwinform) | Desktop news management system with AI-powered features - Built with C# .NET Framework, Windows Forms, Ollama & Qwen2.5 |
 | [FLOWERSHOP](https://github.com/DuwwDuyy/FLOWERSHOP) | E-commerce flower shop platform built with PHP and modern web technologies |
+
+---
+
+## 🤖 AI & ML Expertise
+
+<div align="center">
+
+| Skill | Details |
+|-------|---------|
+| **Ollama Integration** | Offline AI model deployment and management |
+| **Qwen2.5 Model** | Advanced language model for NLP tasks & content analysis |
+| **AntiGravity Cursor** | AI-powered code generation and assistant |
+| **OpenCode** | Intelligent code completion and optimization |
+| **AI-Powered Analysis** | Content validation, plagiarism detection, quality scoring |
+| **AI Chat Integration** | Building conversational AI for business intelligence |
+
+</div>
 
 ---
 
@@ -85,6 +108,7 @@ I'm a passionate developer committed to building exceptional software solutions 
 | 📈 **Growth Mindset** | Continuously learning new technologies |
 | 🤝 **Collaborator** | Love working with talented developers |
 | 🎯 **Committed** | Dedicated to writing quality, maintainable code |
+| 🤖 **AI Innovator** | Experienced in integrating AI/ML solutions into applications |
 
 </div>
 
@@ -97,6 +121,7 @@ Currently exploring:
 - ☁️ Cloud Architecture & DevOps
 - 🤖 AI/ML Integration in Web Applications
 - 🔐 Cybersecurity Best Practices
+- 🧠 Large Language Models & Prompt Engineering
 
 ---
 
@@ -105,14 +130,15 @@ Currently exploring:
 - 📖 Self-taught through online courses and hands-on projects
 - 🏆 Continuous learner on platforms like Udemy, Coursera, freeCodeCamp
 - 💼 Practical experience through real-world project development
+- 🤖 AI/ML implementation experience with production systems
 
 ---
 
 ## 💼 What I'm Currently Working On
 
-🔭 **Building:** Next-generation web solutions  
+🔭 **Building:** Next-generation web solutions with AI integration  
 🌱 **Learning:** Advanced system design patterns  
-💡 **Exploring:** Emerging technologies and frameworks  
+💡 **Exploring:** Emerging AI technologies and frameworks  
 🎯 **Goal:** Contributing more to the open-source community
 
 ---
